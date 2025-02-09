@@ -3,3 +3,4 @@ langchain
 faiss-cpu
 openai
 pypdf
+langchain_community
